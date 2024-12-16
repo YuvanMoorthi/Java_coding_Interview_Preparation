@@ -1,0 +1,13 @@
+package For_Practise;
+
+import java.lang.reflect.Array;
+
+public class secondLargestAndSecndSmallest {
+
+	public static void main(String[] args) {
+		int[] array1 = { 55, 76, 35, 89, 56, 26, 89, 97 };
+		int num = array1.length;
+		Array.sort(array1);
+	}
+
+}

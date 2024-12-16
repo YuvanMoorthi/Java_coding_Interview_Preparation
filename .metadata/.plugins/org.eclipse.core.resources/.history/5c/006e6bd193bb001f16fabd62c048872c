@@ -1,0 +1,26 @@
+package For_Practise;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+public class commonElementsinArray {
+
+	public static void main(String[] args) {
+		int[] a = { 2, 4, 7, 8, 3 };
+		int[] b = { 3, 5, 7, 9, 1, 8 };
+//		List<Integer> commonElements = new ArrayList<>();
+//		for (int i = 0; i < a.length; i++) {
+//			for (int j = 0; j < b.length; j++) {
+//				if (a[i] == b[j]) {
+//					commonElements.add(a[i]);
+//				}
+//			}
+//		}
+//		System.out.println("Common Elements for given two array List is:" + commonElements);
+
+		// array list
+		ArrayList<Integer> a1 = new ArrayList<>(Arrays.asList(a));
+		ArrayList<Integer> list1 = new ArrayList<>(Arrays.asList(a));
+	}
+
+}

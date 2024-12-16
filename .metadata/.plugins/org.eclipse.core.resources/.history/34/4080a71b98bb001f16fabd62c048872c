@@ -1,0 +1,9 @@
+package For_Practise;
+
+public class secondLargestAndSecndSmallest {
+
+	public static void main(String[] args) {
+		int[] array1 = { 55, 76, 35, 89, 56, 26, 89, 97 };
+	}
+
+}

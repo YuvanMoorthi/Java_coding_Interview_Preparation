@@ -1,0 +1,12 @@
+package For_Practise;
+
+import java.util.Scanner;
+
+public class swapTwoNumbers {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package For_Practise;
+
+import java.util.ArrayList;
+
+public class largestNumberfromGivenList {
+
+	public static void main(String[] args) {
+		int a = 34, b = 76, c = 45;
+		ArrayList<Integer> arrayList = new ArrayList<>();
+		arrayList.add(num);
+
+	}
+
+}

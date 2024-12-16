@@ -1,0 +1,31 @@
+package For_Practise;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class findEachWordOccurance {
+
+	public static void main(String[] args) {
+		String str = "Alice is girl and Bob is boy";
+		Map<String, Integer> hash = new HashMap<String, Integer>();
+		String[] words1 = str.split(" ");
+		for (String word1 : words1) {
+			if (hash.containsKey(word1)) {
+				hash.put(word1, hash.get(word1) + 1);
+			} else
+				hash.put(word1, 1);
+		}
+		System.err.println(hash);
+		Map<String, Integer> hashMap = new HashMap<>();
+		String[] words = str.split(" ");
+		for (String word : words) {
+			if (hashMap.containsKey(word))
+				hashMap.put(word, hashMap.get(word) + 1);
+			else
+				hashMap.put(word, 1);
+		}
+		System.out.println(hashMap);
+
+	}
+
+}

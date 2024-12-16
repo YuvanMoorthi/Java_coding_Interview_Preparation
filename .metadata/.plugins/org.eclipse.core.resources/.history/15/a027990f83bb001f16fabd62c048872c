@@ -1,0 +1,9 @@
+package For_Practise;
+
+public class countDigits {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

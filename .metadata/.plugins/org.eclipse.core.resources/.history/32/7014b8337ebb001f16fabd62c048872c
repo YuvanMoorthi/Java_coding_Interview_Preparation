@@ -1,0 +1,14 @@
+package For_Practise;
+
+import java.util.Scanner;
+
+public class primeNumber {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		System.err.print("Enter the number:  ");
+		int num = scanner.nextInt();
+		int count = 0;
+	}
+
+}

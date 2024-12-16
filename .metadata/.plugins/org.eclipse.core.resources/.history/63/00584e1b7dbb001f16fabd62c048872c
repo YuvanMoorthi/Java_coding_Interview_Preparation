@@ -1,0 +1,11 @@
+package For_Practise;
+
+public class oddOReven {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+
+	}
+
+}

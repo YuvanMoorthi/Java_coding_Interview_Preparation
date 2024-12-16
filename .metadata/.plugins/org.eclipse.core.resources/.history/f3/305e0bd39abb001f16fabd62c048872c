@@ -1,0 +1,11 @@
+package For_Practise;
+
+public class countingNumberofOccurances {
+
+	public static void main(String[] args) {
+		String string = "Java is a programming language. Java is widely used in software Testing";
+		String[] words= string.toLowerCase().split("");
+
+	}
+
+}

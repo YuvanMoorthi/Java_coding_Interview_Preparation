@@ -1,0 +1,21 @@
+package For_Practise;
+
+public class armStrongNumber {
+
+	public static void main(String[] args) {
+		int sum,rev, temp;
+		int num = 153;
+		temp = num;
+		if (num > 0) {
+			rev = num % 10;
+			num = num / 10;
+			sum = sum + (rev * rev * rev);
+			if (temp == sum)
+				System.out.println(temp + " is armstrong number");
+			else
+				System.out.println(temp + " is Not armstrong number");
+
+		}
+	}
+
+}

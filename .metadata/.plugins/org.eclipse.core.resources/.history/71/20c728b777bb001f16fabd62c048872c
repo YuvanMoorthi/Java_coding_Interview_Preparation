@@ -1,0 +1,12 @@
+package For_Practise;
+
+public class palindrome {
+
+	public static void main(String[] args) {
+		int num = 12321;
+		int originalNum= num;
+		int reverse;
+
+	}
+
+}

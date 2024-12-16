@@ -1,0 +1,10 @@
+package For_Practise;
+
+public class largestNumberfromGivenList {
+
+	public static void main(String[] args) {
+		int a = 34, b = 76, c = 45;
+
+	}
+
+}

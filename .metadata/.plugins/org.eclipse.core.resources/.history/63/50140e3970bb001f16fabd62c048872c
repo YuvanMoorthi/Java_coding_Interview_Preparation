@@ -1,0 +1,10 @@
+package For_Practise;
+
+public class swapTwoNumbers {
+
+	public static void main(String[] args) {
+		int scanner = new Scanner();
+
+	}
+
+}

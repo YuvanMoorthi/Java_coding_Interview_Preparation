@@ -1,0 +1,11 @@
+package For_Practise;
+
+public class reverseAString {
+
+	public static void main(String[] args) {
+		String name = "mama";
+		String name1 = "";
+
+	}
+
+}
