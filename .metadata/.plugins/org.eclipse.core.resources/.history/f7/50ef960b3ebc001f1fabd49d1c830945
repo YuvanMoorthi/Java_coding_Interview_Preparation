@@ -1,0 +1,13 @@
+package For_Practise;
+
+public class reverseEntireSentences {
+
+	public static void main(String[] args) {
+		/**
+		 * Input = "India is country My" 
+		 * Output = "My country is India"
+		 */
+
+	}
+
+}

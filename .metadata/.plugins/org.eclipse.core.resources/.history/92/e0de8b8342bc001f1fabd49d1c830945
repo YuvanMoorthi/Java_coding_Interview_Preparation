@@ -1,0 +1,9 @@
+package For_Practise;
+
+public class removeDuplicateFFromArray {
+
+	public static void main(String[] args) {
+		String[] strArray = { "abc", "def", "abc", "mno", "xyz", "pqr", "xyz", "pqr" };
+	}
+
+}

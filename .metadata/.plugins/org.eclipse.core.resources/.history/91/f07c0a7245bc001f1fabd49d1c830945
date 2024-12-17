@@ -1,0 +1,10 @@
+package For_Practise;
+
+public class reverseEachWordInSentence {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
